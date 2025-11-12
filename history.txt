@@ -1,0 +1,23 @@
+*   0e2a146 Merge branch 'server_last' into release
+|\  
+| * e1119f7 сохранил разницу между коммитами
+| * 845886e добавил засыпашек в server_last
+| * 0013a80 add todo.txt 5
+| * 55f1123 add todo.txt 4
+* |   68bf4ac Merge branch 'feature2'
+|\ \  
+| * | 70046fb feature2 change
+* | |   233b63e Merge branch 'feature1'
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 9e4b199 feature1 change
+| |/  
+| * a719dc8 add todo.txt 5
+| * d57d7d9 add todo.txt 4
+* | 9ab4bd0 добавил засыпашек в 3й коммит
+|/  
+* 96abc65 add todo.txt 3
+* d9a1c1f add todo.txt 2
+* df323e6 add todo.txt 1
+* e955ee4 init
