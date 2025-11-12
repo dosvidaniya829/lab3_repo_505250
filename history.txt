@@ -1,3 +1,4 @@
+* 778da78 сохранил историю
 *   0e2a146 Merge branch 'server_last' into release
 |\  
 | * e1119f7 сохранил разницу между коммитами
